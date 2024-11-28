@@ -16,3 +16,8 @@
 - **Programming**: `Python`, `SQL`, `C`, `JavaScript`
 - **Web Development**: `HTML`, `CSS`, `Bootstrap`, `Flask`
 - **Engineering**: `MATLAB`, `Arduino`
+
+### :computer: Projects
+
+- [Budgetary](https://github.com/Ammmoe/Budgetary)
+  *A web app for tracking personal finances with multi-currency support.*
