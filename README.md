@@ -19,5 +19,5 @@
 
 ### :computer: Projects
 
-- [Budgetary](https://github.com/Ammmoe/Budgetary)
+- [Budgetary](https://github.com/Ammmoe/Budgetary):
   *A web app for tracking personal finances with multi-currency support.*
