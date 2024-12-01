@@ -6,7 +6,7 @@
 
 ### :books: Current Studies
 
-- **MIT Emerging Talent Program in Computer and Data Science**
+- **MIT Emerging Talent Certificate in Computer and Data Science Program**
   at the *Massachusetts Institute of Technology (MIT)*
 
 ### :hammer_and_wrench: Tools and Technologies
