@@ -6,8 +6,6 @@
 
 ### :books: Current Studies
 
-- **Graduate Diploma in Systems Analysis**
-  at the *National University of Singapore (NUS)*
 - **MIT Emerging Talent Program in Computer and Data Science**
   at the *Massachusetts Institute of Technology (MIT)*
 
