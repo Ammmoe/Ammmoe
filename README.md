@@ -1,29 +1,29 @@
-## Hello there :wave:
+## Hello there 👋
 
-### :rocket: Machine Learning and Data Science Enthusiast
+### 🚀 Machine Learning Systems Enthusiast
 
 *Transitioning from **Mechanical Engineering** to the **Tech Industry***
 
-### :books: Current Studies
+### 📚 Current Studies
 
-- **Graduate Diploma in Systems Analysis**
-  at the *National University of Singapore (NUS)*
+- **Graduate Diploma in Systems Analysis**  
+  *National University of Singapore (NUS)*
 
-### :hammer_and_wrench: Tools and Technologies
+### 🛠️ Tools and Technologies
 
-- **Programming**: `Java`, `Python`, `SQL`, `C`, `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- **Tools and Frameworks**: `Java Spring Boot`, `ReactJS`, `Tailwind`, `Bootstrap`,
-`Flask`, `PyTorch`
+- **Programming**: `Java`, `Python`, `SQL`, `C`, `HTML`, `CSS`, `JavaScript`,
+  `TypeScript`  
+- **Frameworks & Tools**: `Spring Boot`, `ReactJS`, `Flask`, `Bootstrap`,
+  `Tailwind`, `PyTorch`  
 - **Engineering**: `MATLAB`, `Arduino`
 
-### :computer: Projects
+### 💻 Projects
 
-- [CODEX Ecommerce](https://github.com/GDIPSA60-Team-5/simba-ecommerce):
-  Online bookstore built as a team project with Java Spring Boot, ReactJS, and
-  TypeScript. Supports user authentication, book browsing, reviews, and
-  purchasing with Stripe payment integration.
-  
-- [Budgetary](https://github.com/Ammmoe/Budgetary):
-  Personal finance tracker built with Python (Flask). Supports multi-currency
-  budgets with real-time data from Yahoo Finance (stocks), Binance
-  (cryptocurrency), and Frankfurter (exchange rates).
+- [**CODEX Ecommerce**](https://github.com/GDIPSA60-Team-5/simba-ecommerce)  
+  Team-built online bookstore using Java Spring Boot, ReactJS, and TypeScript.
+  Includes user authentication, book browsing, and a Stripe-integrated checkout process.
+
+- [**Budgetary**](https://github.com/Ammmoe/Budgetary)  
+  Personal finance tracker developed with Python (Flask). Supports
+  multi-currency budgets with real-time data from Yahoo Finance (stocks),
+  Binance (cryptocurrency), and Frankfurter (exchange rates).
