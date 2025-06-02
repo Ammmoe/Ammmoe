@@ -19,11 +19,11 @@
 ### :computer: Projects
 
 - [CODEX Ecommerce](https://github.com/GDIPSA60-Team-5/simba-ecommerce):
-  *Online bookstore built as a team project with Java Spring Boot, ReactJS, and
-  TypeScript. Supports user authentication, book browsing, purchasing, reviews,
-  and Stripe payment integration.*
+  Online bookstore built as a team project with Java Spring Boot, ReactJS, and
+  TypeScript. Supports user authentication, book browsing, reviews, and
+  purchasing with Stripe payment integration.
   
 - [Budgetary](https://github.com/Ammmoe/Budgetary):
-  *Personal finance tracker built with Python (Flask). Supports multi-currency
+  Personal finance tracker built with Python (Flask). Supports multi-currency
   budgets with real-time data from Yahoo Finance (stocks), Binance
-  (cryptocurrency), and Frankfurter (exchange rates).*
+  (cryptocurrency), and Frankfurter (exchange rates).
