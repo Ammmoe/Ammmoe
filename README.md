@@ -11,10 +11,10 @@
 
 ### 🛠️ Tools and Technologies
 
-- **Programming**: `Java`, `Python`, `SQL`, `C`, `HTML`, `CSS`, `JavaScript`,
+- **Programming**: `C`, `Java`, `Python`, `Kotlin`, `SQL`, `HTML`, `CSS`, `JavaScript`,
   `TypeScript`  
 - **Frameworks & Tools**: `Spring Boot`, `ReactJS`, `PyTorch`, `Flask`, `Bootstrap`,
-  `Tailwind`
+  `Tailwind`, `Android`
 - **Engineering**: `MATLAB`, `Arduino`
 
 ### 💻 Projects
