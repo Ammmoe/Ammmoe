@@ -20,9 +20,10 @@
 ### 💻 Projects
 
 - [**Fruit Classifier**](https://github.com/Ammmoe/Fruit-Classifier)  
-  Image classifier developed with PyTorch to distinguish apples, oranges,
-  bananas, and mixed fruits using a CNN model. Training progress and results
-  are documented in this [model training log](https://nusu-my.sharepoint.com/:x:/r/personal/e1505293_u_nus_edu/Documents/(ML)%20CA%20Training%20Document.xlsx?d=wd538bb3d4e0e441791b118d9f0ad23f7&csf=1&web=1&e=OtnOwu).
+  Developed an image classification model with PyTorch using an 8-layer
+  ResNet-based CNN architecture to classify apples, oranges, bananas, and mixed
+  fruits. Achieved 93% accuracy on a limited dataset through data augmentation
+  and model optimization.
 
 - [**CODEX Ecommerce**](https://github.com/GDIPSA60-Team-5/simba-ecommerce)  
   Team-built online bookstore using Java Spring Boot, ReactJS, and TypeScript.
