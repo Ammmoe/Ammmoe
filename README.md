@@ -33,3 +33,9 @@
   Personal finance tracker developed with Python (Flask). Supports
   multi-currency budgets with real-time data from Yahoo Finance (stocks),
   Binance (cryptocurrency), and Frankfurter (exchange rates).
+
+- [**Minimum Change Calculator**](https://github.com/Ammmoe/2025_AungMyinMoe)  
+  Dockerized microservice application to compute the minimum number of coins needed
+  to reach a target amount using a REST API and dynamic programming. Built with ReactJS
+  (frontend), Java Dropwizard (backend), and NGINX multi-stage deployment.
+
