@@ -13,7 +13,7 @@
 
 - **Programming**: `C`, `Java`, `Python`, `Kotlin`, `SQL`, `HTML`, `CSS`, `JavaScript`,
   `TypeScript`  
-- **Frameworks & Tools**: `Spring Boot`, `ReactJS`, `PyTorch`, `Flask`, `Bootstrap`,
+- **Frameworks & Tools**: `Spring Boot MVC`, `ASP.NET MVC Core`, `ReactJS`, `PyTorch`, `Flask`, `Bootstrap`,
   `Tailwind`, `Android`
 - **Engineering**: `MATLAB`, `Arduino`
 
