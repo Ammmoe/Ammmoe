@@ -11,10 +11,10 @@
 
 ### 🛠️ Tools and Technologies
 
-- **Programming**: `C`, `Java`, `Python`, `Kotlin`, `SQL`, `HTML`, `CSS`, `JavaScript`,
-  `TypeScript`  
-- **Frameworks & Tools**: `Spring Boot MVC`, `ASP.NET MVC Core`, `ReactJS`, `PyTorch`, `Flask`, `Bootstrap`,
-  `Tailwind`, `Android`
+- **Programming**: `C`, `C#`, `Java`, `Python`, `Kotlin`, `SQL`, `HTML`, `CSS`,
+  `JavaScript`, `TypeScript`  
+- **Frameworks & Tools**: `Spring Boot MVC`, `ASP.NET MVC Core`, `ReactJS`, `PyTorch`,
+  `Flask`, `Bootstrap`, `Tailwind`, `Android`
 - **Engineering**: `MATLAB`, `Arduino`
 
 ### 💻 Projects
